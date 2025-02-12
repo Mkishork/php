@@ -1,1 +1,1 @@
-php is return inside the html.
+php is written inside the HTML.
